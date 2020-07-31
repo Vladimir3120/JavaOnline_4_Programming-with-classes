@@ -12,9 +12,6 @@ public class Client {
 
 	public Client() {
 
-		createVaucher();
-		choose();
-
 	}
 
 	private void choose() {
