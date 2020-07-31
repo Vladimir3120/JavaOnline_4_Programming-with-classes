@@ -16,6 +16,9 @@ public class Task05 {
 
 		Client client = new Client();
 		
+		client.createVaucher();
+		client.choose();
+		
 		
 		
 		
